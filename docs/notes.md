@@ -43,3 +43,4 @@ Notes and usage details for fork.recipes.
 - add a note about the defaults
 - clarify the setup steps
 - link the usage section
+- clarify the setup steps
